@@ -2,7 +2,7 @@
 
 
 
-[![how to see saved passwords on chrome](redd.png)](https://github.com/resolutionsite/how.to.see.saved.passwords.on.chrome)
+[![how to see saved passwords on chrome](redd.png)](https://icncomputer.com/how-to-see-saved-passwords-on-chrome/)
 
 
 
